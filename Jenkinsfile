@@ -1,6 +1,6 @@
 pipeline{  
     environment {
-    registry = "shylajohn/docker-repo"
+    registry = "shylajohn/test-repo"
     }
   agent any
   stages {
